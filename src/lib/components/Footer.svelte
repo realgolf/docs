@@ -20,7 +20,7 @@
 					This documentation are Open-Source. <br /> See something that's wrong or unclear? <br /> Submit
 					a pull request or create an Issue.
 				</p>
-				<a href="https://github.com/moinjulian/golf" target="_blank">
+				<a href="https://github.com/realgolf/docs" target="_blank">
 					<button><span><Fa icon={faCodePullRequest} /></span>Make a contribution</button>
 				</a>
 			</div>
