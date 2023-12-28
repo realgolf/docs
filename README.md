@@ -1,8 +1,8 @@
 # Real Golf Documentation
 
-This sub folder contains the Documentation for the Real Golf Project
+This is the Repository for the Real Golf Games
 
-**You are highly invited to contribute to this documentation**
+**You are highly invited to contribute to this documentation, if you want to add any information or have sen something that is not clear**
 
 You can visit the documentation under following Domain:
 
@@ -10,8 +10,8 @@ You can visit the documentation under following Domain:
 
 ## License
 
-These Documentation are Licensend under the [MIT](./LICENSE.md) License
+These Documentation are Licensend under the [MIT](LICENSE.md) License
 
 ## Contributing Guide
 
-Please follow our [Contributing Guidlines](../CONTRIBUTING.md) when Contributing to this project.
+Please follow our [Contributing Guidlines](CONTRIBUTING.md) when Contributing to this project.
