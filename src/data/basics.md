@@ -2,6 +2,12 @@
 title: Basics
 ---
 
+## Rules
+
+### Introducion
+
+The rules are the rules of 4Winning, Exact and Precision, in the following 'the Games,' which should be read by each user before starting to play. You can access them by logging into your account and then navigating to the 'Rules' tab in the dashboard or through the menu on the right-hand side. **Please read them carefully before playing**
+
 ## Modi
 
 ### Introduction

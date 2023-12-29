@@ -4,5 +4,7 @@
 
 <div class="column">
 	<a href="/basics"><h3>Basics</h3></a>
+
+	<a href="/basics#rules">Rules</a>
 	<a href="/basics#modi">Modi</a>
 </div>
