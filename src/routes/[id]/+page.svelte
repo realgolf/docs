@@ -42,7 +42,7 @@
 				<li>
 					<a tabindex="-1" href="#{h2Item.id}">{h2Item.text}</a>
 					{#if h2Item.subheadings && h2Item.subheadings.length > 0}
-						<ol>
+						<ol class="h2Item">
 							{#each h2Item.subheadings as h3Item}
 								<li>
 									<a tabindex="-1" href="#{h3Item.id}">{h3Item.text}</a>
@@ -81,8 +81,7 @@
 
 		transition: opacity 250ms linear;
 		position: fixed;
-		top: 0;
-		height: 100vh;
+		top: 5em;
 		transform: translateX(78rem);
 		overflow-y: auto;
 
@@ -93,7 +92,11 @@
 		ol {
 			margin-left: 0;
 			padding-left: 2rem;
-			border-left: 1px solid var(--border-color);
+			list-style: upper-roman;
+
+			.h2Item {
+				list-style: lower-roman !important;
+			}
 		}
 
 		a:hover {
@@ -108,6 +111,7 @@
 			}
 
 			ol {
+				list-style-type: none;
 				padding-block: 1rem;
 				height: 100vh;
 				display: flex;
