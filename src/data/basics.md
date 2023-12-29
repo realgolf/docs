@@ -62,3 +62,9 @@ The yellow number represents the target distance you need to play, which by defa
 #### What You Need?
 
 To play Precision, you will need a set of clubs or at least one golf club, as well as a distance measuring device to measure the distance you have hit the ball.
+
+## Levels
+
+### Introduction
+
+The levels are optional to play with and you can decide playing with them.
