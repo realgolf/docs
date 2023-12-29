@@ -163,5 +163,16 @@
 			font-size: var(--small-font);
 			white-space: nowrap;
 		}
+
+		:global(img) {
+			display: block;
+			padding: 1rem 0;
+			margin: 1rem 0;
+			border: none;
+			max-width: calc(100% - 2rem);
+			width: auto;
+			height: auto;
+			max-height: 32rem;
+		}
 	}
 </style>

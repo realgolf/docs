@@ -68,3 +68,15 @@ To play Precision, you will need a set of clubs or at least one golf club, as we
 ### Introduction
 
 The levels are optional to play with and you can decide playing with them.
+
+## Games
+
+### Introduction
+
+In the Game tab the saved games from the database are shown, hen a user saves a game in the database he can view, edit and open it in the Games tab, he can also delete one gam at a time or all saved games at once.
+
+### How to open a Game from the Database
+
+To open a Game from the Database cklick on the button on the game you want to poen whihc is labeled with "Open Game" and positioned above the button labeled "Delete Game"
+
+![Open Game Position](/src/lib/img/game_open_button_position.png)
