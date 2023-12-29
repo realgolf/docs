@@ -79,4 +79,4 @@ In the Game tab the saved games from the database are shown, hen a user saves a 
 
 To open a Game from the Database cklick on the button on the game you want to poen whihc is labeled with "Open Game" and positioned above the button labeled "Delete Game"
 
-![Open Game Position](/src/lib/img/game_open_button_position.png)
+![Open Game Position](/img/game_open_button_position.png)
