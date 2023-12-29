@@ -80,3 +80,15 @@ In the Game tab the saved games from the database are shown, hen a user saves a 
 To open a Game from the Database cklick on the button on the game you want to poen whihc is labeled with "Open Game" and positioned above the button labeled "Delete Game"
 
 ![Open Game Position](/img/game_open_button_position.png)
+
+### How to delete a Game from the Database
+
+To delete a Game from the Database you have to Options:
+
+1. You can delete all Games at once by clicking the button "Delete All" on the top of the Page
+
+![Delete All Games Position](/img/game_delete_all_position.png)
+
+2. You can delete each Game on it's own by clicking the button "Delete Game" on one of the Games
+
+![Delete Game Position](/img/game_delete_button_position.png)
