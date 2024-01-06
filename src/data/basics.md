@@ -8,11 +8,11 @@ title: Basics
 
 The rules are the rules of 4Winning, Exact and Precision, in the following 'the Games,' which should be read by each user before starting to play. You can access them by logging into your account and then navigating to the 'Rules' tab in the dashboard or through the menu on the right-hand side. **Please read them carefully before playing**
 
-## Modi
+## Games
 
 ### Introduction
 
-The modi's represent different games you can play, including 4Winning, Exact, and Precision. You can access them by logging into your account and then navigating to the 'Modis' tab in the dashboard or through the menu on the right-hand side.
+The games represent different games you can play, including 4Winning, Exact, and Precision. You can access them by logging into your account and then navigating to the 'Games' tab in the dashboard or through the menu on the right-hand side.
 
 ### 4Winning
 
@@ -69,26 +69,32 @@ To play Precision, you will need a set of clubs or at least one golf club, as we
 
 The levels are optional to play with and you can decide playing with them.
 
-## Games
+## Archive
 
 ### Introduction
 
-In the Games tab the saved games from the database are shown, when you save a game in the database you can view, edit and open it in the Games tab, you can also delete one game at a time or all saved games at once.
+In the Archive tab the saved games from the database are shown, when you save a game in the database you can view, edit and open it in the Archive tab, you can also delete one game at a time or all saved games at once.
+
+**Please note that when saving a 4Winning Game the Count of how often a Field got hit will get deleted**
 
 ### How to open a Game from the Database
 
-To open a Game from the Database click on the button on the game you want to poen whihc is labeled with "Open Game" and positioned above the button labeled "Delete Game"
+To open a Game from the Database click on the button on the game you want to open which is labeled with "Open Game" and positioned above the button labeled "Delete Game"
 
 ![Open Game Position](/img/game_open_button_position.png)
 
 ### How to delete a Game from the Database
 
-To delete a Game from the Database you have to Options:
+To delete a Game from the Database you have two Options:
 
-1. You can delete all Games at once by clicking the button "Delete All" on the top of the Page
+1. You can delete all Games at once by clicking the button "Delete All" at top of the Page.
 
 ![Delete All Games Position](/img/game_delete_all_position.png)
 
-2. You can delete each Game on it's own by clicking the button "Delete Game" on one of the Games
+2. You can delete each Game on it's own by clicking the button "Delete Game" on one of the Games.
 
 ![Delete Game Position](/img/game_delete_button_position.png)
+
+### Preview of 4Winning
+
+By clicking on the eye logo at the top of the page you can activate a Preview of the 4Winning game and how it would look like when continue playing

@@ -6,5 +6,7 @@
 	<a href="/basics"><h3>Basics</h3></a>
 
 	<a href="/basics#rules">Rules</a>
-	<a href="/basics#modi">Modi</a>
+	<a href="/basics#games">Games</a>
+	<a href="/basics#levels">Levels</a>
+	<a href="/basics#archive">Archive</a>
 </div>
