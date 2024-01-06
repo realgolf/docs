@@ -20,11 +20,12 @@ There are two methods to create an account:
 
 ### Registration
 
-To register you will need to enter three Informations:
+To register you will need to enter four Informations:
 
 1. Name
 2. Password
 3. Email
+4. Handicap
 
 #### Name
 
