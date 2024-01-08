@@ -105,3 +105,11 @@ Follow these steps to set up and utilize the range finder to capture crucial sho
    - Pay particular attention to the following essential parameters:
      - **Total/Carry Distance:** You can decide if the total distance traveled by the ball or its carry distance is important.
      - **Lateral Deviation:** When playing the [Silver level](https://realgolf.games/dashboard/levels) or above you need to include the lateral deviation and it will get harder to hit a Field of your choice.
+
+## Keyboard shortcuts
+
+There are a few Keyboard shortcuts you can use to speed up your naviagtion proccess
+
+**Currently there is only one Keyboard shortcut avaible.**
+
+1. Open Menu, "ctrl+m"
