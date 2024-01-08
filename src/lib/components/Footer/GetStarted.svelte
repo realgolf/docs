@@ -7,4 +7,5 @@
 
 	<a href="/get-started#about-accounts">About Accounts</a>
 	<a href="/get-started#preparation-for-the-games">Preparation for the Games</a>
+	<a href="/get-started#keyboard-shortcuts">Keyboard Shortcuts</a>
 </div>
