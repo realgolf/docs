@@ -6,13 +6,13 @@ title: Basics
 
 ### Introducion
 
-The rules are the rules of 4Winning, Exact and Precision, in the following 'the Games,' which should be read by each user before starting to play. You can access them by logging into your account and then navigating to the 'Rules' tab in the dashboard or through the menu on the right-hand side. **Please read them carefully before playing**
+The rules are the rules of 4Winning, Exact and Precision, in the following 'the Games,' which should be read by each user before starting to play. You can access them by logging into your account and then open the Menu by clicking on the three bars labeled Menu in the top right corner or by pressing "ctrl+m". **Please read them carefully before playing**
 
 ## Games
 
 ### Introduction
 
-The games represent different games you can play, including 4Winning, Exact, and Precision. You can access them by logging into your account and then navigating to the 'Games' tab in the dashboard or through the menu on the right-hand side.
+The games represent different games you can play, including 4Winning, Exact, and Precision. You can access them by logging into your account and then open the Menu by clicking on the three bars labeled Menu in the top right corner or by pressing "ctrl+m".
 
 ### 4Winning
 
@@ -67,13 +67,13 @@ To play Precision, you will need a set of clubs or at least one golf club, as we
 
 ### Introduction
 
-The levels are optional to play with and you can decide playing with them.
+The levels are optional to play with and you can decide playing with them. You can access them by logging into your account and then open the Menu by clicking on the three bars labeled Menu in the top right corner or by pressing "ctrl+m".
 
 ## Archive
 
 ### Introduction
 
-In the Archive tab the saved games from the database are shown, when you save a game in the database you can view, edit and open it in the Archive tab, you can also delete one game at a time or all saved games at once.
+In the Archive tab the saved games from the database are shown, when you save a game in the database you can view, edit and open it in the Archive tab, you can also delete one game at a time or all saved games at once. You can access them by logging into your account and then open the Menu by clicking on the three bars labeled Menu in the top right corner or by pressing "ctrl+m".
 
 **Please note that when saving a 4Winning Game the Count of how often a Field got hit will get deleted**
 
