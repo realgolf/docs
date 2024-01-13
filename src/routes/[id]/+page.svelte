@@ -174,8 +174,8 @@
 			margin: 1rem 0;
 			border: none;
 			max-width: calc(100% - 2rem);
-			width: auto;
-			height: auto;
+			width: calc(420px / 2);
+			height: calc(420px / 2);
 			max-height: 32rem;
 		}
 	}
