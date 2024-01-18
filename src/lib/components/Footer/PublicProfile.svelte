@@ -3,5 +3,5 @@
 </script>
 
 <div class="column">
-	<a href="/puplic-profile"><h3>Puplic Profile</h3></a>
+	<a href="/public-profile"><h3>Public Profile</h3></a>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Puplic Profile
+title: Public Profile
 ---
 
 ## Username
