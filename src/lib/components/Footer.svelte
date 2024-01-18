@@ -3,6 +3,7 @@
 	import { faCodePullRequest } from '@fortawesome/free-solid-svg-icons';
 	import Fa from 'svelte-fa';
 	import Basics from './Footer/Basics.svelte';
+	import PuplicProfile from './Footer/PuplicProfile.svelte';
 </script>
 
 <footer>
@@ -10,6 +11,7 @@
 		<section class="parts">
 			<GetStarted></GetStarted>
 			<Basics></Basics>
+			<PuplicProfile></PuplicProfile>
 		</section>
 
 		<h3>Help and Support</h3>
