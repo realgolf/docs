@@ -33,3 +33,13 @@ The Sponsor badge can be earned by sponsoring the RealGolf.Games organization on
 #### Trainer
 
 The Trainer badge is reserved for verified golf trainers who have applied and been approved for a Trainer Badge.
+
+## Registration Date
+
+Below the Highlights (if user has any) you can find the Registration Date of the User.
+
+## Games
+
+Below the Registration date you can find the number of saved games, as well as a link to all the Games the User has saved.
+
+Below that the **One Player Precision Highscore** is shown.
