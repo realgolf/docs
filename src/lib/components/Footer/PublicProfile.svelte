@@ -8,4 +8,5 @@
 	<a href="/public-profile#username">Username</a>
 	<a href="/public-profile#name">Name</a>
 	<a href="/public-profile#bio">Bio</a>
+	<a href="/public-profile#highlights">Highlights</a>
 </div>
