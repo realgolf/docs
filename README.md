@@ -2,7 +2,7 @@
 
 This is the Repository for the Real Golf Games
 
-**You are highly invited to contribute to this documentation, if you want to add any information or have sen something that is not clear**
+**You are highly invited to contribute to this documentation, if you want to add any information or have seen something that is not clear**
 
 You can visit the documentation under following Domain:
 
