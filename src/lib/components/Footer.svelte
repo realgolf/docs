@@ -3,6 +3,7 @@
 	import { faCodePullRequest } from '@fortawesome/free-solid-svg-icons';
 	import Fa from 'svelte-fa';
 	import Basics from './Footer/Basics.svelte';
+	import Games from './Footer/Games.svelte';
 	import PublicProfile from './Footer/PublicProfile.svelte';
 </script>
 
@@ -11,6 +12,7 @@
 		<section class="parts">
 			<GetStarted></GetStarted>
 			<Basics></Basics>
+			<Games></Games>
 			<PublicProfile></PublicProfile>
 		</section>
 
