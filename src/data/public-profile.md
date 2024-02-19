@@ -42,6 +42,6 @@ Below the Highlights (if user has any) you can find the Registration Date of the
 
 Below the Registration date you can find the number of saved games, as well as a link to all the Games the User has saved.
 
-> In the subpage Gmes you can find all Games the User has saved, including a Preview of the Game.
+> In the subpage Games you can find all Games the User has saved, including a Preview of the Game.
 
 Below that the **One Player Precision Highscore** is shown.

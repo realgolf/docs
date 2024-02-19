@@ -1,7 +1,7 @@
 import he from 'he';
-import shiki from 'shiki';
+import { getHighlighter } from 'shiki';
 
-const highlighter = await shiki.getHighlighter({
+const highlighter = await getHighlighter({
 	theme: 'slack-dark',
 	langs: ['javascript', 'html', 'css', 'svelte', 'scss', 'git-commit', 'markdown', 'json', 'pug']
 });
