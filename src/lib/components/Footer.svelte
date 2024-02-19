@@ -2,6 +2,7 @@
 	import GetStarted from '$lib/components/Footer/GetStarted.svelte';
 	import { faCodePullRequest } from '@fortawesome/free-solid-svg-icons';
 	import Fa from 'svelte-fa';
+	import Achievements from './Footer/Achievements.svelte';
 	import Basics from './Footer/Basics.svelte';
 	import Games from './Footer/Games.svelte';
 	import PublicProfile from './Footer/PublicProfile.svelte';
@@ -14,6 +15,7 @@
 			<Basics></Basics>
 			<Games></Games>
 			<PublicProfile></PublicProfile>
+			<Achievements></Achievements>
 		</section>
 
 		<h3>Help and Support</h3>
