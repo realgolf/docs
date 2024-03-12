@@ -1,15 +1,9 @@
-/**
- * Highlights code blocks in HTML content using the specified themes and languages.
- *
- * @param htmlContent The HTML content containing code blocks to be highlighted.
- * @returns The HTML content with highlighted code blocks.
- */
 import he from 'he';
-import { getHighlighter } from 'shiki';
+import shiki from 'shiki';
 
-const highlighter = await getHighlighter({
-	themes: ['slack-dark'],
-	langs: ['javascript', 'html', 'css', 'svelte', 'scss', 'git-commit', 'markdown', 'json']
+const highlighter = await shiki.getHighlighter({
+	theme: 'slack-dark',
+	langs: ['javascript', 'html', 'css', 'svelte', 'scss', 'git-commit', 'markdown', 'json', 'pug']
 });
 
 const code_regex = /<pre><code\s+class="language-(\w+)">([\s\S]+?)<\/code><\/pre>/gi;
