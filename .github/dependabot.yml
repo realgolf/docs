@@ -11,3 +11,5 @@ updates:
       interval: 'daily'
     reviewers:
       - '@MoinJulian'
+    ignore:
+      - dependency-name: 'shiki'
