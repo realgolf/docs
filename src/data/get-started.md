@@ -15,69 +15,77 @@ There are two methods to create an account:
 
 #### Start Page Option
 
-- On the start page, you will find two Setences one to login and one to register
+- On the start page, you will find two sentences, one to login and one to register.
 - To create an account, select the "Register" button.
 
 ### Registration
 
-To register you will need to enter four Informations:
+To register, you will need to enter four pieces of information:
 
-1. Name
+1. Email
 2. Password
-3. Email
-4. Handicap
-
-#### Name
-
-There are two things required for a Name to be valid:
-
-1. Entering a Name is required and you won't be able to register without
-2. The entered Name must have a minimum length of two Letters
-   - You can't use a Name which is a single Symbol long
+3. Verify Password
+4. Name
+5. Username
+6. Handicap
 
 #### Email
 
-There are three things required for an Email to be valid:
+There are three requirements for an email to be valid:
 
-1. Entering an Email is required and you won't be able to register without
-2. The email has to match our email regexp
+1. Entering an email is required and you won't be able to register without it.
+2. The email has to match our email regexp, which is:
 
-    - Which is:
+   ```javascript
+   export const email_regexp = /^[a-z0-9.*%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/;
+   ```
 
-      - `
-        export const email_regexp = /^[a-z0-9.*%+-]+@[a-z0-9.-]+\.[a-z]{2,}$/;
-        `
+   - For example, `username@moinjulian.com`.
 
-    - For Example `username@moinjulian.com`
-
-3. The entered Email as to be unique and can not match with an Email already registered on our database
+3. The entered email has to be unique and cannot match an email already registered in our database.
 
 #### Password
 
-There are three things required for an Password to be valid:
+There are three requirements for a password to be valid:
 
-1. Entering an Password is required and you won't be able to register without
-2. You will need to verify your entered Password, the first and second Password have to be exactly identical
-3. The minimum Password length is 8 symbols
-   - You can enter what ever you want
+1. Entering a password is required and you won't be able to register without it.
+2. You will need to verify your entered password; the first and second passwords have to be exactly identical.
+3. The minimum password length is 8 symbols.
+   - You can enter whatever you want.
+
+#### Name
+
+There are two requirements for a name to be valid:
+
+1. Entering a name is required and you won't be able to register without it.
+2. The entered name must have a minimum length of two letters.
+   - You can't use a name that is a single symbol long.
 
 ### Login
 
-After you have created an Account via **Registration** you can login using your Email Adress and Password you have entered previously
+After you have created an account via registration, you can login using your email address and the password you entered previously.
 
-**Please note that when you forget your Password you won't be able to Login again**
+**Please note that if you forget your password, you won't be able to login again.**
 
 ### Settings
 
-In the Dropdown Menu on the right hand site of the Naigation bar in the top, you can find the Settings tab, while you are logged in, click on it to open the Settings
+In the dropdown menu on the right-hand side of the navigation bar at the top, you can find the Settings tab. While you are logged in, click on it to open the Settings.
+
+#### User ID
+
+In the top of the settings, directly below Account you will find your User ID, which is used by the Team to find and indetify you in the database.
+
+**Please provide our team with this ID when they ask for it.**
 
 #### Changing Information
 
-Your personl information like "Name", "Email" and "Password" can be changed in the Settings
+Your personal information like "Name", "Email", and "Password" can be changed in the Settings.
+
+### Dropdownmenu
 
 #### Logout
 
-You can also find an button to Logout in the Settings, click on it to Logout (you will need to reproduce the [Login Steps](#login) descript above to login again)
+You can also find a button to logout in the Dropdownmenu. Click on it to logout (you will need to reproduce the [Login Steps](#login) described above to login again).
 
 ## Preparation for the Games
 
@@ -104,12 +112,12 @@ Follow these steps to set up and utilize the range finder to capture crucial sho
 2. **Key Parameters:**
    - Pay particular attention to the following essential parameters:
      - **Total/Carry Distance:** You can decide if the total distance traveled by the ball or its carry distance is important.
-     - **Lateral Deviation:** When playing the [Silver level](https://realgolf.games/dashboard/levels) or above you need to include the lateral deviation and it will get harder to hit a Field of your choice.
+     - **Lateral Deviation:** When playing the [Silver level](https://realgolf.games/dashboard/levels) or above, you need to include the lateral deviation, and it will get harder to hit a field of your choice.
 
 ## Keyboard shortcuts
 
-There are a few Keyboard shortcuts you can use to speed up your naviagtion proccess
+There are a few keyboard shortcuts you can use to speed up your navigation process.
 
-**Currently there is only one Keyboard shortcut avaible.**
+**Currently, there is only one keyboard shortcut available.**
 
-1. Open Menu, "ctrl+m"
+1. Open Menu: "ctrl+m"
