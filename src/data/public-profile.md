@@ -18,6 +18,22 @@ The real name of the user is displayed below the Username in a smaller and greye
 
 The Bio section provides users with the opportunity to share a brief and personal description about themselves. It serves as a space for users to express their interests, professional background, or any other information they wish to share with the community. Users can use the Bio section to provide context about who they are and what they are passionate about. Keep in mind that the content shared in the Bio section should adhere to the platform's community guidelines and policies.
 
+## Socials
+
+You have the option to add Socials links to our Socialmedia Accounts
+
+Supportted Socialmedia Accounts are:
+
+1. GitHub - (`https://github.com/`)
+2. YouTube - (`https://youtube.com/`)
+3. Instagram - (`https://instagram.com/`)
+4. Facebook - (`https://facebook.com/`)
+5. Pinterest - (`https://pinterest.com/`)
+6. LinkedIn - (`https://linkedin.com/`)
+7. Chess.com - (`https://chess.com/members/`)
+8. Lichess - (`https://lichess.org/@/`)
+9. X (formarly Twitter) - (`https://x.com/`) / (`https://twitter.com/`)
+
 ## Highlights
 
 ### Badge
