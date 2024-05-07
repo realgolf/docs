@@ -50,14 +50,14 @@ devDependencies:
     specifier: ^3.2.3
     version: 3.2.3(prettier@3.2.5)(svelte@4.2.15)
   sass:
-    specifier: ^1.72.0
-    version: 1.72.0
+    specifier: ^1.77.0
+    version: 1.77.0
   svelte:
     specifier: ^4.2.15
     version: 4.2.15
   svelte-check:
     specifier: ^3.6.9
-    version: 3.6.9(sass@1.72.0)(svelte@4.2.15)
+    version: 3.6.9(sass@1.77.0)(svelte@4.2.15)
   tslib:
     specifier: ^2.4.1
     version: 2.6.2
@@ -66,7 +66,7 @@ devDependencies:
     version: 5.4.5
   vite:
     specifier: ^5.2.6
-    version: 5.2.6(sass@1.72.0)
+    version: 5.2.6(sass@1.77.0)
 
 packages:
 
@@ -656,7 +656,7 @@ packages:
       sirv: 2.0.4
       svelte: 4.2.15
       tiny-glob: 0.2.9
-      vite: 5.2.6(sass@1.72.0)
+      vite: 5.2.6(sass@1.77.0)
     dev: true
 
   /@sveltejs/vite-plugin-svelte-inspector@2.0.0(@sveltejs/vite-plugin-svelte@3.0.2)(svelte@4.2.15)(vite@5.2.6):
@@ -670,7 +670,7 @@ packages:
       '@sveltejs/vite-plugin-svelte': 3.0.2(svelte@4.2.15)(vite@5.2.6)
       debug: 4.3.4
       svelte: 4.2.15
-      vite: 5.2.6(sass@1.72.0)
+      vite: 5.2.6(sass@1.77.0)
     transitivePeerDependencies:
       - supports-color
     dev: true
@@ -689,7 +689,7 @@ packages:
       magic-string: 0.30.7
       svelte: 4.2.15
       svelte-hmr: 0.15.3(svelte@4.2.15)
-      vite: 5.2.6(sass@1.72.0)
+      vite: 5.2.6(sass@1.77.0)
       vitefu: 0.2.5(vite@5.2.6)
     transitivePeerDependencies:
       - supports-color
@@ -1419,14 +1419,14 @@ packages:
       rimraf: 2.7.1
     dev: true
 
-  /sass@1.72.0:
-    resolution: {integrity: sha512-Gpczt3WA56Ly0Mn8Sl21Vj94s1axi9hDIzDFn9Ph9x3C3p4nNyvsqJoQyVXKou6cBlfFWEgRW4rT8Tb4i3XnVA==}
+  /sass@1.77.0:
+    resolution: {integrity: sha512-eGj4HNfXqBWtSnvItNkn7B6icqH14i3CiCGbzMKs3BAPTq62pp9NBYsBgyN4cA+qssqo9r26lW4JSvlaUUWbgw==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dependencies:
       chokidar: 3.6.0
       immutable: 4.3.5
-      source-map-js: 1.0.2
+      source-map-js: 1.2.0
     dev: true
 
   /set-cookie-parser@2.6.0:
@@ -1461,11 +1461,6 @@ packages:
       sander: 0.5.1
     dev: true
 
-  /source-map-js@1.0.2:
-    resolution: {integrity: sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==}
-    engines: {node: '>=0.10.0'}
-    dev: true
-
   /source-map-js@1.2.0:
     resolution: {integrity: sha512-itJW8lvSA0TXEphiRoawsCksnlf8SyvmFzIhltqAHluXd88pkCd+cXJVHTDwdCr0IzwptSm035IHQktUu1QUMg==}
     engines: {node: '>=0.10.0'}
@@ -1486,7 +1481,7 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /svelte-check@3.6.9(sass@1.72.0)(svelte@4.2.15):
+  /svelte-check@3.6.9(sass@1.77.0)(svelte@4.2.15):
     resolution: {integrity: sha512-hDQrk3L0osX07djQyMiXocKysTLfusqi8AriNcCiQxhQR49/LonYolcUGMtZ0fbUR8HTR198Prrgf52WWU9wEg==}
     hasBin: true
     peerDependencies:
@@ -1499,7 +1494,7 @@ packages:
       picocolors: 1.0.0
       sade: 1.8.1
       svelte: 4.2.15
-      svelte-preprocess: 5.1.3(sass@1.72.0)(svelte@4.2.15)(typescript@5.4.5)
+      svelte-preprocess: 5.1.3(sass@1.77.0)(svelte@4.2.15)(typescript@5.4.5)
       typescript: 5.4.5
     transitivePeerDependencies:
       - '@babel/core'
@@ -1530,7 +1525,7 @@ packages:
       svelte: 4.2.15
     dev: true
 
-  /svelte-preprocess@5.1.3(sass@1.72.0)(svelte@4.2.15)(typescript@5.4.5):
+  /svelte-preprocess@5.1.3(sass@1.77.0)(svelte@4.2.15)(typescript@5.4.5):
     resolution: {integrity: sha512-xxAkmxGHT+J/GourS5mVJeOXZzne1FR5ljeOUAMXUkfEhkLEllRreXpbl3dIYJlcJRfL1LO1uIAPpBpBfiqGPw==}
     engines: {node: '>= 16.0.0', pnpm: ^8.0.0}
     requiresBuild: true
@@ -1571,7 +1566,7 @@ packages:
       '@types/pug': 2.0.10
       detect-indent: 6.1.0
       magic-string: 0.30.7
-      sass: 1.72.0
+      sass: 1.77.0
       sorcery: 0.11.0
       strip-indent: 3.0.0
       svelte: 4.2.15
@@ -1630,7 +1625,7 @@ packages:
     resolution: {integrity: sha512-ARDJmphmdvUk6Glw7y9DQ2bFkKBHwQHLi2lsaH6PPmz/Ka9sFOBsBluozhDltWmnv9u/cF6Rt87znRTPV+yp/A==}
     dev: false
 
-  /vite@5.2.6(sass@1.72.0):
+  /vite@5.2.6(sass@1.77.0):
     resolution: {integrity: sha512-FPtnxFlSIKYjZ2eosBQamz4CbyrTizbZ3hnGJlh/wMtCrlp1Hah6AzBLjGI5I2urTfNnpovpHdrL6YRuBOPnCA==}
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
@@ -1661,7 +1656,7 @@ packages:
       esbuild: 0.20.2
       postcss: 8.4.38
       rollup: 4.13.0
-      sass: 1.72.0
+      sass: 1.77.0
     optionalDependencies:
       fsevents: 2.3.3
     dev: true
@@ -1674,7 +1669,7 @@ packages:
       vite:
         optional: true
     dependencies:
-      vite: 5.2.6(sass@1.72.0)
+      vite: 5.2.6(sass@1.77.0)
     dev: true
 
   /vscode-oniguruma@1.7.0:
